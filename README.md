@@ -11,6 +11,6 @@ Notice 31/07/2022: My Intel Mac died after 9 years.  I will be transitioning all
 
 Therefore, expect all my Mac projects to unfortunately close.  Going forward, Red Hat Enterprise Linux will be my number 1 platform and I will be cross-compiling for Windows.  I have neither the time nor energy to consistently use multiple machines anymore.
 
-Notice 12/09/2022: I am slowly moving all my popular and / or projects that are largely finished to SourceForge.  I dislike where Github is going and I want space to code, not to earn stupid badges and have 'social media' features.  Nor do I want to ellicit and assumption that my work with the GNU project is somehow tied to MS.  For those projects that are small and or under GPL licenses, I will be moving those to my repo cz account.
+Notice 12/09/2022: I am slowly moving all my popular and / or projects that are largely finished to SourceForge.  I dislike where Github is going and I want space to code, not to earn stupid badges and have 'social media' features.  Nor do I want to ellicit any assumption that my work with the GNU project is somehow tied to MS.  For those projects that are small and or under GPL licenses, I will be moving those to my repo cz account.
 
 Eventually my Github will be permanently shutdown and closed.
