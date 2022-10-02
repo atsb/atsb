@@ -19,7 +19,7 @@ I've since ported the entire Boom Editing Tools including the main program to na
 but I will not redistribute them again, as I have done that and got no respect for it.
 
 I think many developers would agree, that if a community does not want you, then why would they want
-the content your create, for free, in your spare time?  I think this is fair.
+the content you create, for free, in your spare time?  I think this is fair.
 
 Keep on developing folks!  Respect yourselves and respect your craft.
 
