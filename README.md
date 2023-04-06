@@ -9,12 +9,6 @@
 
 Note:
 
-This is detailing which projects have gone where.
+From May this year (2023) all projects will be hosted on repo.or.cz and github will become a mirror for these repositories.  Meaning, I will still reply to issues, pull requests and such.
 
-* All projects that are NOT Doom, Quake or otherwise Game (Except my Roguelike ports) related have been transferred to: https://gitlab.com/atsb
-* All projects that ARE game related have been transferred to sourceforge: https://sourceforge.net/u/atsb/
-* All projects that ARE FOSS related (Debian/GNU) have been transferred to repo.or.cz due to its use of strictly free JS and thus any of my fellow FOSS contributors do not need to install non-free Javascript (ongoing)
-
-Everything you see on my github currently (except those above) will be staying put.  Those primarily are Nose-PY3, Wrathplaces, Source port builds and RL_M (Larn).
-
-It is easier for me to manage all of this with nice, clear separation, I had over 75 repositories here that I actively worked on and managing it all was utter hell.
+I try to use FOSS wherever possible in my life.
