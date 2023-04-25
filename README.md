@@ -12,3 +12,5 @@ My Sourceforge (where projects that are 'done' and in purely maintenance mode go
 My Gitlab (where misc projects that are no longer developed belong): https://gitlab.com/atsb
 
 Some of these may have crossovers of some projects on GitHub (usually older versions that I am too lazy to remove).  So in this case, consider the ones on GitHub more updated.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=atsb)](https://github.com/anuraghazra/github-readme-stats)
